@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Alice Santos",
+    "age": 28,
+    "position": "Marketing Analyst",
+    "department": "Marketing",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "workFormat": "On-site",
+    "salary": 4500
+  },
+  {
+    "name": "Bruno Oliveira",
+    "age": 32,
+    "position": "Backend Developer",
+    "department": "Technology",
+    "city": "São Paulo",
+    "state": "SP",
+    "workFormat": "Hybrid",
+    "salary": 7200
+  },
+  {
+    "name": "Carla Mendes",
+    "age": 41,
+    "position": "Project Manager",
+    "department": "Operations",
+    "city": "Curitiba",
+    "state": "PR",
+    "workFormat": "Remote",
+    "salary": 9800
+  },
+  {
+    "name": "Diego Ferreira",
+    "age": 25,
+    "position": "Support Intern",
+    "department": "IT",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "workFormat": "On-site",
+    "salary": 1800
+  },
+  {
+    "name": "Fernanda Costa",
+    "age": 29,
+    "position": "Financial Analyst",
+    "department": "Finance",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "workFormat": "Hybrid",
+    "salary": 5200
+  },
+  {
+    "name": "Gustavo Lima",
+    "age": 37,
+    "position": "HR Coordinator",
+    "department": "Human Resources",
+    "city": "Salvador",
+    "state": "BA",
+    "workFormat": "On-site",
+    "salary": 6500
+  },
+  {
+    "name": "Juliana Rocha",
+    "age": 30,
+    "position": "Product Owner",
+    "department": "Products",
+    "city": "Recife",
+    "state": "PE",
+    "workFormat": "Remote",
+    "salary": 8700
+  },
+  {
+    "name": "Lucas Martins",
+    "age": 26,
+    "position": "UX/UI Designer",
+    "department": "Design",
+    "city": "Florianópolis",
+    "state": "SC",
+    "workFormat": "Hybrid",
+    "salary": 4800
+  },
+  {
+    "name": "Mariana Alves",
+    "age": 34,
+    "position": "Data Scientist",
+    "department": "Technology",
+    "city": "São Paulo",
+    "state": "SP",
+    "workFormat": "Remote",
+    "salary": 11500
+  },
+  {
+    "name": "Rodrigo Pires",
+    "age": 45,
+    "position": "Operations Director",
+    "department": "Executive Board",
+    "city": "Brasília",
+    "state": "DF",
+    "workFormat": "On-site",
+    "salary": 18000
+  }
+]
